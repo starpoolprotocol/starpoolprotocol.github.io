@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.9bc6d313.chunk.css",
-    "main.js": "/static/js/main.aaceae09.chunk.js",
+    "main.js": "/static/js/main.30bc79e4.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.75d8b0e8.js",
     "static/js/2.3aa7f538.chunk.js": "/static/js/2.3aa7f538.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.acd3fdd45ef64e9eb6b9144a81577bb5.js": "/precache-manifest.acd3fdd45ef64e9eb6b9144a81577bb5.js",
+    "precache-manifest.939032416f6693d52f44ecad11b000b6.js": "/precache-manifest.939032416f6693d52f44ecad11b000b6.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.3aa7f538.chunk.js.LICENSE.txt": "/static/js/2.3aa7f538.chunk.js.LICENSE.txt",
     "static/media/farmer.png": "/static/media/farmer.cc47ad76.png"
@@ -14,6 +14,6 @@
     "static/js/runtime-main.75d8b0e8.js",
     "static/js/2.3aa7f538.chunk.js",
     "static/css/main.9bc6d313.chunk.css",
-    "static/js/main.aaceae09.chunk.js"
+    "static/js/main.30bc79e4.chunk.js"
   ]
 }
