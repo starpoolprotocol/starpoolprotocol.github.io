@@ -1,21 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.9bc6d313.chunk.css",
-    "main.js": "/static/js/main.7582060c.chunk.js",
+    "main.js": "/static/js/main.2c60dc1c.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.75d8b0e8.js",
-    "static/js/2.2e1f4939.chunk.js": "/static/js/2.2e1f4939.chunk.js",
+    "static/js/2.85bfac12.chunk.js": "/static/js/2.85bfac12.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.1563b9e9222c7085616a2735bf87762d.js": "/precache-manifest.1563b9e9222c7085616a2735bf87762d.js",
+    "precache-manifest.ab359082c0eeddf553204ec22cae5379.js": "/precache-manifest.ab359082c0eeddf553204ec22cae5379.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.2e1f4939.chunk.js.LICENSE.txt": "/static/js/2.2e1f4939.chunk.js.LICENSE.txt",
-    "static/media/auditing.jpg": "/static/media/auditing.f3792458.jpg",
-    "static/media/beosin-logo.png": "/static/media/beosin-logo.65bed15a.png",
+    "static/js/2.85bfac12.chunk.js.LICENSE.txt": "/static/js/2.85bfac12.chunk.js.LICENSE.txt",
     "static/media/farmer.png": "/static/media/farmer.cc47ad76.png"
   },
   "entrypoints": [
     "static/js/runtime-main.75d8b0e8.js",
-    "static/js/2.2e1f4939.chunk.js",
+    "static/js/2.85bfac12.chunk.js",
     "static/css/main.9bc6d313.chunk.css",
-    "static/js/main.7582060c.chunk.js"
+    "static/js/main.2c60dc1c.chunk.js"
   ]
 }
